@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+ .card {@apply bg-gray-200 p-4 rounded-xl shadow-lg };
+ .cardpad {@apply p-4 md:p-6};
+ .inp {@apply bg-gray-100 p-3 rounded-xl border border-gray-200}
+ .btn {@apply bg-blue-900  text-white rounded-2xl border border-white};
+ .input {@apply bg-gray-300 p-2 rounded-lg border-0 }
